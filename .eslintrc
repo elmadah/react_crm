@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "extends": [
+    "react-app",
+    "eslint:recommended",
+    "plugin:react/recommended"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  }
+}
